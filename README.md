@@ -22,7 +22,6 @@ else count <= count;                // holds present value
 
 
 
-```
 ## Testbench Program
 
 
